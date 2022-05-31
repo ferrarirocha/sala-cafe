@@ -161,7 +161,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-nav ul li > a {
   text-transform: uppercase;
   letter-spacing: 1px;
-  font-size: 16px;
+  font-size: 14px;
   
 }
 .fh5co-nav ul li a {
@@ -483,12 +483,12 @@ h1, h2, h3, h4, h5, h6, figure {
   font-family: "Satisfy", cursive;
 }
 #fh5co-featured-menu .fh5co-item-wrap, #fh5co-gallery .fh5co-item-wrap, #fh5co-reservation-form .fh5co-item-wrap {
-  padding-left: 30px;
+  padding-left: 50px;
   padding-right: 20px;
 }
 #fh5co-featured-menu .fh5co-item, #fh5co-gallery .fh5co-item, #fh5co-reservation-form .fh5co-item {
   float: center;
-  width: 500%;
+  width: 300%;
   backround: #fff;
 }
 #fh5co-featured-menu .fh5co-item.margin_top, #fh5co-gallery .fh5co-item.margin_top, #fh5co-reservation-form .fh5co-item.margin_top {
