@@ -143,7 +143,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-nav #fh5co-logo a span {
   color: #ea272d;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
   .fh5co-nav .menu-1 {
     display: none;
   }
@@ -464,7 +464,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-about .img-wrap img {
   margin-bottom: 20px;
 }
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 600px) {
   #fh5co-about .img-wrap img {
     max-width: 100%;
   }
