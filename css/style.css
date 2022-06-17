@@ -1773,10 +1773,10 @@ textarea {
   opacity: 0;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 400px) {
   .col-xxs-12 {
     float: none;
-    width: 50%;
+    width: 20%;
   }
 }
 
