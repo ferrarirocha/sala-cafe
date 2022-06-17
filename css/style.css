@@ -143,7 +143,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-nav #fh5co-logo a span {
   color: #ea272d;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 500px) {
   .fh5co-nav .menu-1 {
     display: none;
   }
