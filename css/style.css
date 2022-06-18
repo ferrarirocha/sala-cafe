@@ -466,7 +466,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 992px) {
   #fh5co-about .img-wrap img {
-    max-width: 100%;
+    max-width: 170%;
   }
 }
 
