@@ -464,7 +464,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-about .img-wrap img {
   margin-bottom: 20px;
 }
-@media screen and (max-width: 998px) {
+@media screen and (max-width: 890px) {
   #fh5co-about .img-wrap img {
     max-width: 170%;
   }
@@ -473,7 +473,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-featured-menu .fh5co-heading, #fh5co-gallery .fh5co-heading, #fh5co-reservation-form .fh5co-heading {
   margin-bottom: 50px;
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 780px) {
   #fh5co-featured-menu .fh5co-heading, #fh5co-gallery .fh5co-heading, #fh5co-reservation-form .fh5co-heading {
     margin-bottom: 100px;
   }
@@ -483,8 +483,8 @@ h1, h2, h3, h4, h5, h6, figure {
   font-family: "Satisfy", cursive;
 }
 #fh5co-featured-menu .fh5co-item-wrap, #fh5co-gallery .fh5co-item-wrap, #fh5co-reservation-form .fh5co-item-wrap {
-  padding-left: 30px;
-  padding-right: 10px;
+  padding-left: 50px;
+  padding-right: 20px;
 }
 #fh5co-featured-menu .fh5co-item, #fh5co-gallery .fh5co-item, #fh5co-reservation-form .fh5co-item {
   float: center;
