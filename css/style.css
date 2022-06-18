@@ -473,7 +473,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-featured-menu .fh5co-heading, #fh5co-gallery .fh5co-heading, #fh5co-reservation-form .fh5co-heading {
   margin-bottom: 170px;
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 490px) {
   #fh5co-featured-menu .fh5co-heading, #fh5co-gallery .fh5co-heading, #fh5co-reservation-form .fh5co-heading {
     margin-bottom: 50px;
   }
