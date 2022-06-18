@@ -464,7 +464,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-about .img-wrap img {
   margin-bottom: 20px;
 }
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 800px) {
   #fh5co-about .img-wrap img {
     max-width: 100%;
   }
@@ -473,7 +473,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-featured-menu .fh5co-heading, #fh5co-gallery .fh5co-heading, #fh5co-reservation-form .fh5co-heading {
   margin-bottom: 170px;
 }
-@media screen and (max-width: 520px) {
+@media screen and (max-width: 580px) {
   #fh5co-featured-menu .fh5co-heading, #fh5co-gallery .fh5co-heading, #fh5co-reservation-form .fh5co-heading {
     margin-bottom: 50px;
   }
