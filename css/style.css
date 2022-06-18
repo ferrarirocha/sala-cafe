@@ -451,7 +451,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .section-heading {
-  width: 50%;
+  width: 100%;
   float: left;
   margin-bottom: 50px;
 }
@@ -466,12 +466,12 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 400px) {
   #fh5co-about .img-wrap img {
-    max-width: 20%;
+    max-width: 50%;
   }
 }
 
 #fh5co-featured-menu .fh5co-heading, #fh5co-gallery .fh5co-heading, #fh5co-reservation-form .fh5co-heading {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 @media screen and (max-width: 300px) {
   #fh5co-featured-menu .fh5co-heading, #fh5co-gallery .fh5co-heading, #fh5co-reservation-form .fh5co-heading {
